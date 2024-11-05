@@ -16,6 +16,8 @@
 
 This data analysis project aims to analyze the sales performance of a retail store from January 2023 - August 2024. By analysing various aspects of the Sales data, I see to identify trends and uncover key insights such as top-selling products, regional performance, and monthly sales trends. The ultimate goal is to produce an interactive Power BI dashboard that highlights these findings.
 
+
+
 ### Data Source
 
 SalesData: The primary dataset used for this analysis is the "LITA Capstone Dataset.xlsx" file containing detailed information about each sale transaction made by the retail store during the period
@@ -53,7 +55,10 @@ EDA involved exploring the sales data to answer key questions such as:
 #### Using Pivot Tables in MS Excel:
 Some analysis were performed using Pivot Tables to summarise data. Below is an image of the Pivot tables that were created.
 
+
+
 #### Using Excel Function
+
 
 #### Using SQL Server:
 Majority of the analysis were carried out using SQL Server and some of the queries used includes:
