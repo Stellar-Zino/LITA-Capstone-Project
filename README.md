@@ -55,9 +55,11 @@ EDA involved exploring the sales data to answer key questions such as:
 #### Using Pivot Tables in MS Excel:
 Some analysis were performed using Pivot Tables to summarise data. Below is an image of the Pivot tables that were created.
 
+![Pivot Table Image](https://github.com/user-attachments/assets/5bd67226-dde1-40af-b6c1-9d6edbb6c188)
 
 
 #### Using Excel Function
+![Excel Formula Image](https://github.com/user-attachments/assets/30596391-cc53-4692-9869-08ffd8a28839)
 
 
 #### Using SQL Server:
